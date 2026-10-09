@@ -1,1 +1,1 @@
-__LOAD__/tmp/cou_upload_now.json
+{{INCLUDE_FROM_FILE:/home/y/.cursor/projects/home-y-Work/agent-tools/0c8791b6-f085-48b7-9659-72605dff4ebb.txt}}

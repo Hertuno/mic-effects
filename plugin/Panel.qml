@@ -1,1 +1,1 @@
-LOAD_FROM_FILE
+/tmp/panel_final.qml

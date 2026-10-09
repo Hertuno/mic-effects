@@ -1,1 +1,1 @@
-file:///tmp/panel_final.qml
+PLACEHOLDER

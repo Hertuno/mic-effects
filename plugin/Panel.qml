@@ -1,1 +1,1 @@
-/tmp/panel_final.qml
+file:///tmp/panel_final.qml

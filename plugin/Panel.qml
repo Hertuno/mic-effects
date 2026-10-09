@@ -1,1 +1,1 @@
-PLACEHOLDER
+@file:///tmp/cou_full_content.qml

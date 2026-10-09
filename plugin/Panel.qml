@@ -1,1 +1,1 @@
-{{INCLUDE_FROM_FILE:/tmp/ONLY_CONTENT.qml}}
+__LOAD__/tmp/cou_upload_now.json
